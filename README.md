@@ -1,7 +1,5 @@
 # Patisserie - Online Cake Shop
 
-![Patisserie Logo](link_to_your_logo.png)
-
 Patisserie is a delightful online cake shop where you can explore a wide range of delicious cakes, use a shopping cart to add your favorite items, and complete the checkout process with ease. This README will provide you with all the information you need to get started with Patisserie.
 
 ## Table of Contents
@@ -55,4 +53,3 @@ Patisserie is built using the following technologies and tools:
 - CSS: For styling and layout.
 - Bootstrap: For responsive design and UI components.
 - PHP: For server-side scripting and backend functionality.
-- [Additional technologies or libraries used in your project]
